@@ -39,12 +39,12 @@ Firstly I performed some feature engineering like converting variables from char
 
 After cleaning and organizing the data I dived into Exploratory Data Analysis using visualizations with ggplot2
 
-# First I create a histogram of ages colored by income
+#First I create a histogram of ages colored by income
 
-# Then I checked the histogram of hours worked per week
+#Then I checked the histogram of hours worked per week
 
-# Finally I checked the barplot of region by income
+#Finally I checked the barplot of region by income
 
-Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision.
+Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision using the confusion matrix.
 
 ##END##
