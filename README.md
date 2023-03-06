@@ -1,7 +1,5 @@
-Logistic Regression Project
-
 In this project I workied with the UCI adult dataset. 
-I attempted to predict if people in the data set belong in a certain class by salary, either making <=50k or >50k per year.
+I attempted to build a model to predict if people in the data set belong in a certain class by salary, either making <=50k or >50k per year.
 
 Data description:
 
@@ -34,3 +32,19 @@ hours-per-week: continuous.
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, 
 Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, 
 Hong, Holand-Netherlands.
+
+Libraries used: dplyr, Amelia, ggplot2, caTools
+
+Firstly I performed some feature engineering like converting variables from character to factors, and grouping them based on common grounds to reduce the number of levels within them. Then I dealt with the NA values. 
+
+After cleaning and organizing the data I dived into Exploratory Data Analysis using visualizations with ggplot2
+
+# First I create a histogram of ages colored by income
+
+# Then I checked the histogram of hours worked per week
+
+# Finally I checked the barplot of region by income
+
+Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision.
+
+##END##
