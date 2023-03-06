@@ -53,4 +53,6 @@ After cleaning and organizing the data I dived into Exploratory Data Analysis us
 
 Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision using the confusion matrix.
 
+![Confusion Matrix](https://github.com/UMajumder/Classification_using_Logistic_Regression_in_R/blob/main/Confusion_Matrix.png)
+
 ##END##
