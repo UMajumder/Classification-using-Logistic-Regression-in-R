@@ -49,6 +49,8 @@ After cleaning and organizing the data I dived into Exploratory Data Analysis us
 
 #Finally I checked the barplot of region by income
 
+![Plot_3](https://github.com/UMajumder/Classification_using_Logistic_Regression_in_R/blob/main/Plot_3.png)
+
 Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision using the confusion matrix.
 
 ##END##
