@@ -45,6 +45,8 @@ After cleaning and organizing the data I dived into Exploratory Data Analysis us
 
 #Then I checked the histogram of hours worked per week
 
+![Plot_2](https://github.com/UMajumder/Classification_using_Logistic_Regression_in_R/blob/main/Plot_2.png)
+
 #Finally I checked the barplot of region by income
 
 Finally I built the Logistic regression model, and checked for performance metrices like Accuracy, Recall, and Precision using the confusion matrix.
