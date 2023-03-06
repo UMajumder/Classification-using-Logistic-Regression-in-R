@@ -41,6 +41,8 @@ After cleaning and organizing the data I dived into Exploratory Data Analysis us
 
 #First I create a histogram of ages colored by income
 
+![Plot_1](https://github.com/UMajumder/Classification_using_Logistic_Regression_in_R/blob/main/Plot_1.png)
+
 #Then I checked the histogram of hours worked per week
 
 #Finally I checked the barplot of region by income
